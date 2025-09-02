@@ -166,7 +166,7 @@ For detailed deployment instructions, check the [Nuxt deployment documentation](
 
 ## 🔗 Links
 
-- **Live Portfolio**: [akmalyassin.dev](https://akmalyassin-dev.vercel.app/)
+- **Live Portfolio**: [akmalyassin-dev.vercel.app](https://akmalyassin-dev.vercel.app/)
 - **LinkedIn**: [linkedin.com/in/akmalyassin](https://linkedin.com/in/akmalyassin)
 - **GitHub**: [github.com/SnideAnteater](https://github.com/SnideAnteater)
 
