@@ -56,11 +56,12 @@
           </NuxtLink>
         </div>
         <div class="mt-12 animate-fade-in-up-delay-6 opacity-0">
-          <button
-            class="bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white font-bold py-4 px-8 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 hover:-translate-y-2 animate-glow-pulse"
+          <NuxtLink
+            to="/projects"
+            class="inline-block bg-gradient-to-r from-purple-600 to-blue-600 hover:from-purple-700 hover:to-blue-700 text-white font-bold py-4 px-8 rounded-full shadow-lg hover:shadow-xl transition-all duration-300 transform hover:scale-105 hover:-translate-y-2 animate-glow-pulse"
           >
             View My Work
-          </button>
+          </NuxtLink>
         </div>
       </div>
     </div>
